@@ -7,6 +7,8 @@ This project documents my hands-on exploration of **Cutter**, an open-source rev
 For this project, I created a simple C program and compiled it into a **64-bit ELF executable**. I then analyzed the executable using Cutter to understand its internal structure and explore different reverse engineering features.
 
 The analysis covers file information, strings, imports, functions, entry point, disassembly, graph view, decompilation, and cross-references.
+<img width="1009" height="808" alt="cutter interface" src="https://github.com/user-attachments/assets/9477bd82-b10a-45f6-8ec7-fd5feeb64837" />
+
 
 ---
 
