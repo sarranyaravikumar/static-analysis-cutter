@@ -1,4 +1,4 @@
-# Static Binary Analysis with Cutter
+# Static Analysis with Cutter
 
 ## 📌 Overview
 
